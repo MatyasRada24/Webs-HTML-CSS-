@@ -13,7 +13,6 @@ body {
   text-align: center;
   font-size: 40px;
   font-weight: bold;
-  text-underline-position: auto;
   z-index: 2;
   color: rgb(255, 0, 0);
   scale: 3;
@@ -21,13 +20,9 @@ body {
 
 .box {
   display: flex;         
-  justify-content: center; 
-  align-items: center;     
-  gap: 30px;
-  color: black;
-  border: 3px none #F754B0;
-  padding: 15px;
+  justify-content: space-between;
   font-size: 40px;
+  padding: 10px;
 }
 
 .prvek {
@@ -56,7 +51,6 @@ body {
   scale: 2;
   font-size: 30px;
   font-weight: bold;
-  text-underline-position: auto;
   z-index: 2;
   color: white;
 }
@@ -67,10 +61,8 @@ body {
   left: 40.5%;
   scale: 1.1;
   font-size: 20px;
-  text-underline-position: auto;
   z-index: 2;
   color: white;
-  -webkit-text-stroke: #545FF7 0px;
 }
 
 #O_Mně3 {
@@ -79,10 +71,8 @@ body {
   left: 39.7%;
   scale: 1.1;
   font-size: 20px;
-  text-underline-position: auto;
   z-index: 2;
   color: white;
-  -webkit-text-stroke: #545FF7 0px;
 }
 
 #Socky {
@@ -92,35 +82,47 @@ body {
   scale: 2;
   font-size: 25px;
   font-weight: bold;
-  text-underline-position: auto;
   z-index: 2;
   color: white;
 }
 
-#IG {
+.icons {
+  text-align: center;
+  color: white;
   position: absolute;
-  top: 160%;
-  left: 0%;
-  width: 350px;
-  height: 350px;
+  top: 185%;
+  left: 30%;
+  scale: 2;
+  z-index: 10;
 }
 
-#GTH {
-  position: absolute;
-  top: 160%;
-  right: 0%;
-  width: 350px;
-  height: 335px;
-  scale: 0.8;
+.icons a{
+  text-decoration: none;
 }
 
-#YT {
-  position: absolute;
-  top: 162%;
-  left: 40%;
-  width: 300px;
-  height: 325px;
-  scale: 1.1;
+.fa-brands.fa-github.fa-10x{
+  color: white
+}
+
+.fa-brands.fa-instagram.fa-10x{
+  color: white;
+}
+
+.fa-brands.fa-youtube.fa-10x{
+  color: white;
+}
+
+
+.fa-brands.fa-github.fa-10x:hover{
+  color: rgb(180, 148, 148);
+}
+
+.fa-brands.fa-instagram.fa-10x:hover{
+  color: purple
+}
+
+.fa-brands.fa-youtube.fa-10x:hover{
+  color: red
 }
 
 #Projekty {
@@ -130,7 +132,6 @@ body {
   scale: 2;
   font-size: 30px;
   font-weight: bold;
-  text-underline-position: auto;
   z-index: 2;
   color: white;
 }
@@ -141,34 +142,32 @@ body {
   left: 30%;
   scale: 1.1;
   font-size: 20px;
-  text-underline-position: auto;
   z-index: 2;
   color: white;
-  -webkit-text-stroke: #545FF7 0px;
 }
 
 #Ceník {
   position: absolute;
   top: 270%;
-  left: 47.5%;
+  left: 46.5%;
   scale: 2;
   font-size: 30px;
   font-weight: bold;
-  text-underline-position: auto;
   z-index: 2;
   color: white;
 }
 
 #Ceník2 {
-  position: absolute;
-  top: 280%;
-  left: 26%;
-  scale: 1.1;
-  font-size: 20px;
-  text-underline-position: auto;
-  z-index: 2;
-  color: white;
-  -webkit-text-stroke: #545FF7 0px;
+position: absolute;
+text-align: center;
+top: 280%;
+scale: 1;
+font-size: 20px;
+z-index: 2;
+color: white;
+left: 0;
+right: 0;
+
 }
 
 .box2 {
