@@ -7,4 +7,7 @@ Moje vyzitka udělaná v HTML a CSS.
 
 
 **slunecni soustava**
-Předělaná sluneční soustava na webu. Každá má svojí dráhu a krouží kolem slunce, taktéž i jejich měsíce.
+Předělaná sluneční soustava na webu. Každá má svojí dráhu a krouží kolem slunce.
+
+**obrazkyWeb**
+Web, kde jsou různé anime, a když kurzorem přejedeš po textu daného anime, tak se zobrazí obrázky.
