@@ -4,6 +4,7 @@ body {
     background-size: cover;
     margin: 0;
     font-family: "Poppins", sans-serif;
+    background-color: black;
 }
 
 .box {
@@ -17,7 +18,7 @@ body {
     opacity: 0.7;
     border-top-right-radius: 100px;
     border-bottom-right-radius: 100px;
-    background-color: rgba(255, 255, 255, 0.7);
+    background-color: rgb(255, 255, 255);
     border: 3px solid black;
 }
 
@@ -32,7 +33,7 @@ body {
     opacity: 0.7;
     border-top-left-radius: 100px;
     border-bottom-left-radius: 100px;
-    background-color: rgba(255, 255, 255, 0.7);
+    background-color: rgb(255, 255, 255);
     border: 3px solid black;
 }
 
