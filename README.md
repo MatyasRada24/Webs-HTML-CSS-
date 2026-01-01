@@ -7,7 +7,7 @@
 
 
 **vizitka**
-Moje vyzitka udělaná v HTML a CSS.
+vyzitka udělaná pomocí HTML a CSS.
 <img width="1049" height="546" alt="ojofjifje" src="https://github.com/user-attachments/assets/01957fe1-b55b-42db-ab44-096931bcc473" />
 
 
@@ -22,3 +22,5 @@ Předělaná sluneční soustava na webu. Každá má svojí dráhu a krouží k
 
 **obrazkyWeb**
 Web, kde jsou různé anime, a když kurzorem přejedeš po textu daného anime, tak se zobrazí obrázky.
+
+<img width="1767" height="898" alt="gsfagjkfasas" src="https://github.com/user-attachments/assets/e37ac357-780e-4320-89ac-1a8e2e8c30c4" />
